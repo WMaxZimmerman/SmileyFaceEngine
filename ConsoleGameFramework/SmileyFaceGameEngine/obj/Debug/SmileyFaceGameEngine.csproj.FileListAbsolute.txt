@@ -1,0 +1,5 @@
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\SmileyFaceGameEngine\bin\Debug\SmileyFaceGameEngine.dll
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\SmileyFaceGameEngine\bin\Debug\SmileyFaceGameEngine.pdb
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\SmileyFaceGameEngine\obj\Debug\SmileyFaceGameEngine.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\SmileyFaceGameEngine\obj\Debug\SmileyFaceGameEngine.dll
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\SmileyFaceGameEngine\obj\Debug\SmileyFaceGameEngine.pdb

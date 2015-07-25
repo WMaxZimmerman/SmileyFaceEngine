@@ -1,0 +1,8 @@
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\bin\Debug\DungeonGameExample.exe.config
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\bin\Debug\DungeonGameExample.exe
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\bin\Debug\DungeonGameExample.pdb
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\bin\Debug\SmileyFaceGameEngine.dll
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\bin\Debug\SmileyFaceGameEngine.pdb
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\obj\Debug\DungeonGameExample.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\obj\Debug\DungeonGameExample.exe
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\DungeonGameExample\obj\Debug\DungeonGameExample.pdb

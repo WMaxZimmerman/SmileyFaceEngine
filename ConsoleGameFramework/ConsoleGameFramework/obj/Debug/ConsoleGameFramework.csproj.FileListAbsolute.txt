@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\bin\Debug\ConsoleGameFramework.exe.config
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\bin\Debug\ConsoleGameFramework.exe
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\bin\Debug\ConsoleGameFramework.pdb
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\obj\Debug\ConsoleGameFramework.exe
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\obj\Debug\ConsoleGameFramework.pdb
+c:\users\max\documents\visual studio 2015\Projects\ConsoleGameFramework\ConsoleGameFramework\obj\Debug\ConsoleGameFramework.csprojResolveAssemblyReference.cache

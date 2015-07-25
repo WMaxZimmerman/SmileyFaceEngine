@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonGameExample", "DungeonGameExample\DungeonGameExample.csproj", "{9C20EF15-A0B6-4F9F-919B-9535E857D2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmileyFaceGameEngine", "SmileyFaceGameEngine\SmileyFaceGameEngine.csproj", "{B044FCFB-2CBD-4B1E-BF77-F10071D871E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{B9758498-35A9-443C-A7AA-F274114BF877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C20EF15-A0B6-4F9F-919B-9535E857D2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C20EF15-A0B6-4F9F-919B-9535E857D2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C20EF15-A0B6-4F9F-919B-9535E857D2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C20EF15-A0B6-4F9F-919B-9535E857D2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B044FCFB-2CBD-4B1E-BF77-F10071D871E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B044FCFB-2CBD-4B1E-BF77-F10071D871E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B044FCFB-2CBD-4B1E-BF77-F10071D871E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B044FCFB-2CBD-4B1E-BF77-F10071D871E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9758498-35A9-443C-A7AA-F274114BF877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9758498-35A9-443C-A7AA-F274114BF877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9758498-35A9-443C-A7AA-F274114BF877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9758498-35A9-443C-A7AA-F274114BF877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
